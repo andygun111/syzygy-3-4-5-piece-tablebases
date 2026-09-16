@@ -9,5 +9,5 @@ Everywhere I saw had broken links or didn't work for other reasons, so this is a
 
 
 
-##### Download
+### Download
 To download them, just press Code and then "Download ZIP", and unzip that ZIP to get the repo files, then just delete everything but the "files" folder (and checksum.md5 if you want that to ensure nothing bad happened during the download or unzipping I guess), there you go
